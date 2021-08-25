@@ -2,12 +2,18 @@
  Implementation of a Bluetooth network with application as transfer of a file from one device to another.
 # Bluetooth Example
 Using BluetoothAdapter class we will do the following operations
+
 ● Check if Bluetooth is available or not.
+
 ● Turn On/Off Bluetooth.
+
 ● Make Bluetooth Discoverable.
+
 ● Display Paired/Bounded devices.
+
 Note: The getBoundedDevices() method of BluetoothAdapter class provides
 a set containing list of all paired or bounded bluetooth devices.
+
 Permissions Required: BLUETOOTH, BLUETOOTH_ADMIN
 # Steps 
 Step 1: Create a new project OR Open your project
