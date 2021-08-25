@@ -11,11 +11,15 @@ a set containing list of all paired or bounded bluetooth devices.
 Permissions Required: BLUETOOTH, BLUETOOTH_ADMIN
 # Steps 
 Step 1: Create a new project OR Open your project
+
 Step 2: Add 2 Images to show Bluetooth status icons
+
 Step 3: Add BLUETOOTH, BLUETOOTH_ADMIN permission in AndroidMenifest.xml
+
 Step 4: Code
 # How to run app on real device
 Build->Build Bundle(s)/APK(s)->Build APK(s)
+
 Then locate the apk and share the apk on your real device via email or any other source.
 # Screen Shots
 ![mc1](https://user-images.githubusercontent.com/88769793/130808315-63e2c0a3-0bc2-4a67-8143-16264d84fb56.PNG)
